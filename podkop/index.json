@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "architecture": "mips_24kc",
-  "packages": {
-    "luci-app-podkop": "0.20112026-r1",
-    "luci-i18n-podkop-ru": "26.284.26035~da8bd40",
-    "podkop": "0.20112026-r1"
-  }
-}
